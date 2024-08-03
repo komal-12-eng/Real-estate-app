@@ -1,0 +1,40 @@
+body {
+    background-color: #121212; /* Dark background color */
+    color: #ffffff; /* Light text color */
+    font-family: Arial, sans-serif; /* Optional: Set a font family */
+}
+
+.stApp {
+    background-color: #121212; /* Dark background for the Streamlit app */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff; /* Light text color for headings */
+}
+
+.stButton>button {
+    background-color: #1f1f1f; /* Darker button background */
+    color: #ffffff; /* Light button text color */
+    border: 1px solid #333333; /* Darker button border */
+}
+
+.stTextInput>div>div>input {
+    background-color: #333333; /* Darker text input background */
+    color: #ffffff; /* Light text input color */
+    border: 1px solid #555555; /* Darker text input border */
+}
+
+.stSelectbox>div>div>div {
+    background-color: #333333; /* Darker select box background */
+    color: #ffffff; /* Light select box text color */
+    border: 1px solid #555555; /* Darker select box border */
+}
+
+.stDataFrame {
+    background-color: #1f1f1f; /* Darker background for data frames */
+    color: #ffffff; /* Light text color for data frames */
+}
+
+.stMarkdown {
+    color: #ffffff; /* Light text color for markdown components */
+}
